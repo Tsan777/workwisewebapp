@@ -9,70 +9,411 @@ lấy iron man
 lấy ly
 lấy lọc trà bình nước
 lấy đồ sử điện tử
-1 IELTS HSK JLPT
+1 IELTS HSK JLPT Chứng Chỉ
+Chứng Chỉ Tin Học IUH
+Details ccth
+Mô đun 1 (Mã IU01): Hiểu biết về CNTT cơ bản.
+Mô đun 2 (Mã IU02): Sử dụng máy tính cơ bản.
+Mô đun 3 (Mã IU03): Xử lý văn bản cơ bản (Ms. Word).
+Mô đun 4 (Mã IU04): Sử dụng bảng tính cơ bản (Ms. Excel).
+Mô đun 5 (Mã IU05): Sử dụng trình chiếu cơ bản (Ms. PowerPoint).
+Mô đun 6 (Mã IU06): Sử dụng Internet cơ bản.
+Mô đun 7 (Mã IU07): Năng lực số căn bản gồm 6 nội dung
+An toàn
+Giao tiếp và hợp tác trong môi trường số
+Giải quyết vấn đề
+Khai thác dữ liệu và thông tin
+Sáng tạo nội dung số
+Ứng dụng Trí tuệ nhân tạo (AI)
+Road ccth
+BK
+https://drive.google.com/drive/folders/1oHY2HzYgQeKfE4kpgq9DknNZV3bI0Hpv
+sách mua IUH mới
+ôn thi chứng chỉ tin học cơ bản youtube
 HSK 3
+0 Test cn
+Study4
+improvemandarin.com
+mandarinbean.com/hsk-chinese-test-online
+02 Road cn
+0 DOULINGO
+1 Chinese beginner UDEMY
+2 HSK1-3 UDEMY
+digmandarin.com
+1 Kĩ Năng NNDV
+@ChineseDailyPodcast- popcast
+@StorytimeinChinese-kể chuyện stories AI
+@littlechineselearnerssimpl4680 - cn fo kid
+@sysmandarin - news, cartoon immediate
+Little fox chinese - stories topic
+hsk 1-2 stories YTB
+Grammar CN
+ChineseZeroToHero
+resources.allsetlearning.com/chinese/grammar/
+Từ vựngcn
+0 Bo thu
+1 cn 16 topic vocab
+2 Cn beginner course UDEMY vocab
+3 HSK 1,2,3 vocab Quizlet
+4 resources.allsetlearning.com/chinese/vocabulary
+z Sách Vocab vàng
 IELTS 7
 1 Nền tảng
+01Road
+Sách IELTS 20DAY
 NGỮ PHÁP
 mindmap ngữ pháp
 Phát âm
-TED Talks
 https://dailydictation.com/english-pronunciation
 https://parroto.app/vi/topics
 https://youglish.com shadowing
-Sách IELTS 20DAY
 TỪ VỰNG
 1500 B1
 800 B2
+z10 List sublists
+z3 List symnonym
 2 Ôn Skills band
-Listening
-Learning
+02Road
+IELTS 7.5+ UDEMY
+0Test Luyện Practise -> Check BAND-> Luyện until AIM 4 SKILLS
+examenglish.com/IELTS
+ielts-up.com
+ieltsonlinetests.com
+study4.com
+Listening  en
+Youtube
+Crash Course EnglishSpeeches TED Talks  LittleFoxKids
+Ishowspeed MoreBestEverFoodReviewShow  FamilyGuy
+ieltsliz.com/ielts-listening/
 listen-and-write
 listenaminute
-Reading
-Speaking
-Writing
+Reading en
+breakingnewsenglish.com
+ieltsliz.com/ielts-reading
+mangaplus
+Speaking en
+ChatAI
+Chatgpt
+crushon.ai
+Giao tiếp
+free4talk cách kéo dài câu trả lời
+ieltsliz.com/ielts-speaking
+Writing en
+Từ vựng+bài mẫu DRIVE
+https://drive.google.com/drive/folders/13KmEfA9BIvwbyAHcyfXb_tUexxJ1pEjJ?utm_id=bt05
+ieltsliz.com/ielts-writing
 3 Ôn Full Test
-Sách 20 day
+englishpracticetest
+examenglish
+ielts-up
+ieltsliz
+ieltsonlinetests
+study4.com
 JLPT 3
+0 Road jp
+LingoDeer
+doulingo
+1 Kĩ năng NNDV JP
+N5-N1 in 1 video
+japanese stories N5-N1 YTB
+Grammar JP
+@nihongonomorienglish
+https://jlptsensei.com/#jlpt-grammar-lists
+Test JP
+https://japanesetest4you.com/
+jlpt.jp
+Từ Vựng JP
+Quizlet N5-N1
+https://jlptsensei.com/
 2 MMO, Xây dòng tiền
+0Tạo các dòng tiền, hế thống tự động
+1Freelance Project
+COURSE MMO
 Digital Marketing udemy course
-Học dùng AI, tool automation
-Học khái niệm trước, đầu tư vốn nhỏ
-Học livestream tiktok...
 Shopee 15h udemy course
-Tạo các dòng tiền, hế thống tự động
-3 Học Hết kiến thức Ngành Auto
-Chứng chỉ Tin học cơ bản
-Toán cao cấp
-Vật lý đại cương?
-4 Code web app game IOT project khởi nghiệp
-4 Học IOT, Điện tử
-5 Học Thiết kế SolidCad, Figma
-AI
-42 h ML and DL UDEMY Python and R
-AI VÀ DS DŨNG LLT
-ML VÀ DS 90H udemy course
-web machine learning cơ bản
-App
-CS50 APP MOBILE
-REACT NATIVE Udemy+docs
+Digital Marketing
+Affliate
 Chạy Quảng Cáo Google Adsense
-Game
+Sell
+Social Media
+livestream
+ggmap
+roblox
+short
+Food
+ASMR
+Tạo bất ngờ
+review food
+Thích gì đăng đấy
+video
+teach notebook LLM song ngữ -Fastmind
+Tool – Automation
+Học dùng AI, tool automation
+học dùng
+Ai agent
+N8N
+genlogin
+Trade
+Học khái niệm trước, đầu tư vốn nhỏ
+https://www.babypips.com/learn/forex
+Quỹ mở / ETF
+chứng khoán
+Cổ phiếu
+trái phiếu
+crypto
+vàng online
+3 Code web app game IOT project khởi nghiệp
+1 Figma
+figma crash course
+https://www.youtube.com/watch?v=1SNZRCVNizg
+https://www.youtube.com/watch?v=D56hs0Twfco
+https://www.youtube.com/watch?v=jQ1sfKIl50E
+2 Game
 CS50 GAME
 Học roblox
 Unity
-IT
-CS50X
-DSA 28 tech
-Hacksplanning
-Kali linux UDEMY
-Python/C/C++ 28 tech
-USACO GUIDE
-W3school cyper security
-WEB
-CS50 WEB
-FIGMA
+3 WEB
 Front end, Backend 28tech
+https://www.youtube.com/watch?v=lsYjDGPoQyI&list=PLMS0MQLUa94U2Lp3OIQu3KGDktERP8E2g
 W3SCHOOL WEB
 WEB DLLT
+WEB DLLT TERA
+Webcoban
+4 App
+CS50  APP MOBILE youtube
+REACT NATIVE Udemy+docs
+5 IT Linux
+DSA
+CS50X
+DSA 28 tech
+Python/C/C++ 28 tech
+USACO GUIDE
+Linux
+Hacksplanning
+Kali linux UDEMY
+W3school cyper security
+4 Học Hết kiến thức Ngành Auto
+0 Nguồn học
+https://bachkhoacncp.com/learning/ddt
+GIAI ĐOẠN 1: NỀN TẢNG KỸ THUẬT VÀ IT
+0 Kiến thức khoa học
+@3blue1brown
+@DrTrefor -ytb
+@EngineeringMindset
+@MathAndScience
+@SMtrainingacademy
+Crashcourse
+Kiến thức nền tảng kỹ thuật
+Toán cao cấp
+@DrTrefor
+@lequangdung3836 - BKU
+Crashcourse
+Crashcourse
+Eureka uni
+zHàm phức và Biến đổi Laplaces
+Laplace transform - @DrTrefor
+zPhương pháp tính
+Numerical Methods for Engineers
+Phương pháp tính YTB BKU
+Vật lý đại cương
+BKU VL1
+Crashcourse physic-engineer
+MIT Physics 1 & 2
+video-tutor.net - physics hay
+zPhysics With Calculus @TheOrganicChemistryTutor
+Điện electronic cơ bản
+Công thức điện cơ bản THCS-THPT
+Lập trình và Kỹ năng IT nền
+Nguồn IT auto  C/C++ -> C# CƠ BẢN -> Dùng cho embedded, IOT, Auto
+quickref.me
+C
+C#
+C++
+vietjack.com/series/it-lap-trinh.jsp
+C
+C#
+C++
+www.w3schools.com
+C
+C#
+C++
+GIAI ĐOẠN 2: CƠ ĐIỆN TỬ – LẬP TRÌNH NHÚNG –IoT
+0https://www.luisllamas.es/en/courses/
+1 Kiến thức nền điện – điện tử
+1Linh kiện và Mạch điện cơ bản
+00Electronic Circuits - @TheOrganicChemistryTutor
+01AC Circuit Analysis - Vol 1 - Math and Science
+02Engineering Circuits Analysis (DC)  - Math and Science
+1Điện tử cơ bản siêu dễ hiểu - @bklaptrinh3287
+Beginner Electronics - CodeNMore
+www.electronics-tutorials.ws   -> hay link kiện  circuits
+zMạch điện nâng cao - khuếch đại (Op-Amp, transistor, BJT, MOSFET), lọc (RC, LC, Butterworth), dao động (RC, LC, crystal), PWM, ADC/DAC.
+2 Trường điện từ (cơ sở sóng điện từ, truyền dẫn tín hiệu)
+3 Kỹ thuật xung – số (logic, mạch số, cổng logic, flip-flop, timer...)
+4 Đo lường điện và thiết bị đo (đồng hồ, oscilloscope, sensor đo lường...)
+2 Lập trình và mô phỏng nhúng
+0 MÔ PHỎNG MẠCH
+KiCad
+Proteus
+https://wokwi.com/
+tinker cad
+1  lập trình C embedded
+Embedded C Programming Course for beginner’s- @SMtrainingacademy
+2Arduino IDE và lập trình Arduino
+Arduino Beginner Course-SM training academy
+www.luisllamas.es/en/arduino-tutorials/
+3 ESP32 / ESP8266
+randomnerdtutorials.com/projects-esp32-cam/
+www.luisllamas.es/en/esp8266-esp32-course/
+3 Giao tiếp và truyền thông IOT
+Giao thức MQTT (nhắn tin nhẹ cho IoT, dùng với cloud)
+HTTP (truyền dữ liệu qua web, API)
+WebSocket (giao tiếp thời gian thực giữa thiết bị và app)
+WiFi / Bluetooth / BLE (giao tiếp không dây cho IoT)
+4 Hệ thống IoT và Cloud
+Blynk (nền tảng app IoT trực quan, điều khiển từ xa)
+Cloud platforms: AWS IoT Core / Azure IoT Hub (mở rộng hệ thống chuyên nghiệp)
+Firebase (lưu trữ thời gian thực, điều khiển từ xa app/mobile/web)
+Node-RED (luồng dữ liệu, tự động hóa, dashboard IoT)
+ThingsBoard (nền tảng IoT công nghiệp, dashboard – phân tích dữ liệu)
+GIAI ĐOẠN 3: CƠ Điện - Tự Động Hóa Cơ Bản – Lập trình Nhúng
+1Thiết kế cơ khí – điện – mạch
+Thiết kế 2D, mach, bản vẽ kỹ thuật
+AutoCAD LibreCAD
+Thiết kế 3D CAD
+Fusion 360
+SolidWorks
+Thiết kế mạch điện tử: Altium Designer, Proteus (thiết kế, mô phỏng, kiểm thử)
+Thực hành CAD/CAM (gia công, mô phỏng chuyển động, tạo mô hình chế tạo)
+Vẽ kỹ thuật – vật liệu điện (đọc, hiểu, biểu diễn bản vẽ kỹ thuật, chọn vật liệu phù hợp)
+2Hệ thống điện và khí – thủy lực
+1Khí cụ điện (thiết bị đóng cắt, bảo vệ, điều khiển công nghiệp)
+2Máy điện (máy phát, động cơ, máy biến áp)
+3Điện tử công suất (chỉnh lưu, nghịch lưu, điều khiển tốc độ, nguồn xung)
+4Truyền động điện (điều khiển động cơ DC, AC, servo)
+5Hệ thống khí nén – thủy lực (điều khiển cơ cấu chấp hành trong dây chuyền tự động)
+3Điều khiển và mô phỏng
+1Kỹ thuật điều khiển tự động (khái niệm phản hồi, ổn định, đặc tính hệ thống)
+ctms.engin.umich.edu/CTMS/index.php?aux=Home
+https://www.youtube.com/playlist?list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L
+https://www.youtube.com/playlist?list=PLWPirh4EWFpGpH_Rb6Q4iQ6vGGRA6MORZ
+2MATLAB / Simulink (mô phỏng hệ thống điều khiển)
+Matlab Tutorial - Math and Science
+https://matlabacademy.mathworks.com/?page=1&sort=featured
+3CAD trong điều khiển tự động (tích hợp mô hình cơ – điện – điều khiển)
+4Lý thuyết điều khiển nâng cao (PID, mờ, thích nghi, tối ưu...)
+5Xử lý tín hiệu số (DSP) (lọc, FFT, cảm biến tín hiệu analog số)
+6Lập trình và điều khiển PID (tối ưu hóa đáp ứng hệ thống thực)
+4Vi điều khiển – Lập trình nhúng
+Hệ thống điều khiển nhúng (thiết kế phần cứng + phần mềm nhúng tích hợp)
+Kỹ thuật vi xử lý và vi điều khiển (8051, PIC, STM32, ARM...)
+Lập trình vi điều khiển nâng cao (ngoại vi, timer, ngắt, giao tiếp I2C, SPI, UART)
+5PLC – HMI – SCADA – Mạng công nghiệp
+0TIA Portal-lập trình PLC
+1PLC cơ bản và nâng cao: Siemens TIA Portal, GX Developer, Codesys
+2Lập trình Ladder Logic (LD), FBD, SFC
+3Thiết kế giao diện HMI (WinCC, Weintek, Nextion...)
+4SCADA và mạng truyền thông công nghiệp: Modbus, Profibus, Profinet, Ethernet/IP
+5Mạng công nghiệp & mạng máy tính (truyền dữ liệu, bảo mật, giao tiếp thiết bị)
+6Ứng dụng và tự động hóa thực tế
+1Thiết bị và hệ thống điều khiển tự động (dây chuyền, robot, cảm biến, cơ cấu chấp hành)
+2Kỹ thuật Robot cơ bản (cấu trúc, động học, lập trình di chuyển)
+3Tự động hóa quá trình sản xuất (PLC + SCADA + cảm biến + truyền động)
+4Đo lường và điều khiển bằng máy tính (DAQ, LabVIEW, hệ thống điều khiển PC-based)
+5Lập trình LabVIEW (thu thập dữ liệu, điều khiển và giám sát)
+6Tự động hóa trong nông nghiệp và tòa nhà thông minh (ứng dụng IoT, AI, cảm biến môi trường)
+GIAI ĐOẠN 4: TRÍ TUỆ NHÂN TẠO (AI) – HỆ THỐNG THÔNG MINH
+1Nền tảng lập trình và thư viện AI
+1Python cho AI: cú pháp, xử lý dữ liệu, trực quan hóa
+2Thư viện chính: NumPy, Pandas, Matplotlib, Scikit-learn
+3Framework chuyên sâu: TensorFlow, PyTorch (xây dựng, huấn luyện mô hình học máy)
+DS gd4
+Data science
+DũngLLT
+tera
+Datascience 
+W3school
+2Machine Learning cơ bản
+AI DLLT TERA
+AI MATH
+@harryconnorai
+www.w3schools.com/ai/ai_mathematics.asp
+AI W3school
+DS & ML 90h  UDEMY tera
+https://dm.terabox.com/vietnamese/main?category=all&path=%2FLEARNING%2F4.AI%2Fdata-science-machine-learningtheoryprojectsa-z-90-hours&clearCache=1
+ML & DL  Python & R Udemy tera
+https://dm.terabox.com/vietnamese/main?category=all&path=%2FLEARNING%2F4.AI%2FML%20ALGO%20UDEMY&clearCache=1
+machinelearningcoban.com
+3Xử lý ảnh và thị giác máy (Computer Vision)
+Edge AI (AI chạy trực tiếp trên thiết bị nhúng):
+OpenCV (xử lý ảnh cơ bản, phát hiện vật thể, contour, camera stream)
+TensorFlow Lite MediaPipe
+Ứng dụng trong công nghiệp: kiểm tra sản phẩm, nhận dạng lỗi, đếm sản phẩm
+4Hệ thống cảm biến và đo lường thông minh
+Cảm biến thông minh (cảm biến đa tham số, tích hợp xử lý dữ liệu)
+Tích hợp cảm biến với vi điều khiển, PLC, hệ thống IoT
+Đo lường – hiệu chuẩn – xử lý tín hiệu cảm biến
+GIAI ĐOẠN 5: ROBOTICS – HỆ THỐNG TỰ HÀNH
+1: Kiến thức nền tảng
+1. Toán – Lý cơ bản
+Hình học không gian, ma trận, vector, tọa độ Descartes.
+Vật lý: động lực học, cơ học chuyển động, lực – mô men.
+2. Điện – Điện tử cơ bản
+Cảm biến (tiệm cận, quang, encoder).
+Nguồn điện, động cơ điện (DC, AC, Servo).
+PLC cơ bản
+3. Cơ khí – Truyền động
+Khái niệm cơ cấu bậc tự do (DOF) của robot.
+Trục, khớp, bánh răng, vitme, truyền động dây đai.
+2: Nhập môn Robot công nghiệp
+1. Cấu trúc Robot công nghiệp
+Các hãng phổ biến: ABB, Fanuc, Yaskawa, KUKA, Mitsubishi.
+Hệ trục tọa độ (Base, Tool, Joint).
+Phân loại: SCARA, Delta, 6 bậc tự do (6DOF), AGV/AMR.
+2. Nguyên lý hoạt động
+Actuator Selection: lựa chọn servo, DC, stepper, động cơ tuyến tính phù hợp
+Bộ điều khiển trung tâm (Robot Controller).
+Hệ thống truyền động & hộp giảm tốc Harmonic Drive.
+Kinematics & Dynamics: MIT OCW Robotics
+Động học thuận – nghịch (forward & inverse kinematics)
+Động lực học (force, torque, quỹ đạo chuyển động)
+Sensor Integration: cảm biến góc, tốc độ, vị trí, LIDAR, IMU, camera, encoder
+Động cơ Servo, Encoder, Driver.
+3: Lập trình Robot cơ bản
+0.ROS2 – Hệ điều hành robot
+Cấu trúc ROS2 (node, topic, publisher/subscriber, service, launch file)
+Kết nối ROS2 với phần cứng thật (ESP32, Jetson, Raspberry Pi)
+Lập trình điều khiển robot tự hành (di chuyển, tránh vật cản, lập bản đồ)
+Mô phỏng robot với Gazebo và Rviz
+1. Lập trình dạy tay (Teach Pendant)
+Lưu điểm, chạy chương trình, chỉnh sửa.
+Điều khiển Joint, Linear, Circular.
+2. Các lệnh cơ bản
+Di chuyển (MoveJ, MoveL, MoveC).
+I/O cơ bản (xuất tín hiệu ra ngoài).
+Lệnh logic (IF, WAIT, SIGNAL).
+3. Bài tập thực hành
+Lấy – đặt sản phẩm (Pick & Place).
+Vẽ đường, đóng gói, sắp xếp.
+4: Lập trình Robot nâng cao
+1. Ngôn ngữ lập trình riêng của robot
+Giao tiếp PLC (Profibus, Profinet, Ethernet/IP).
+RAPID (ABB), KRL (KUKA), KAREL (Fanuc), INFORM (Yaskawa).
+2. Ứng dụng nâng cao
+Robot bốc xếp, đóng gói.
+Robot hàn (Arc Welding, Spot Welding).
+3. Tích hợp hệ thống
+Giao tiếp IoT/SCADA.
+Kết nối Camera – Vision (Keyence, Cognex).
+Robot + AGV/AMR trong dây chuyền sản xuất.
+4.Robot thông minh và thị giác máy
+Cảm biến LIDAR và IMU (đo khoảng cách, quán tính, định hướng chuyển động)
+OpenCV (nhận dạng vật thể, màu sắc, đường di chuyển)
+SLAM (Simultaneous Localization and Mapping – định vị và tạo bản đồ)
+TensorFlow (phân loại, phát hiện vật thể cho robot thông minh)
+5: Mô phỏng & Thiết kế hệ thống
+1. Phần mềm mô phỏng
+RoboDK, RobotStudio (ABB), Process Simulate (Siemens).
+2. Thiết kế hệ thống tích hợp
+Layout dây chuyền tự động.
+Tối ưu chu kỳ (Cycle Time).
