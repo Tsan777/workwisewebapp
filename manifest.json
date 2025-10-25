@@ -1,10 +1,10 @@
 {
-  "name": "My Web App",
-  "short_name": "TLS",
+  "name": "WorkWise",
+  "short_name": "WorkWise",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#121212",
+  "theme_color": "#1f1f1f",
   "icons": [
     {
       "src": "icon-192x192.png",
